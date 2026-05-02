@@ -1,0 +1,1 @@
+Skill to ingest podcast transcripts 
