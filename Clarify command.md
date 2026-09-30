@@ -1,0 +1,3 @@
+When I run this command and give you a task, do NOT start working right away. First, ask me at least 5 clarifying questions about the goal, the scope, any constraints, and exactly how I want it done. Wait for my answers. Once I respond, enter plan mode: research the relevant code and context, then lay out a complete, step-by-step plan for how you'll do it. Show me that plan and wait for my explicit approval. Do not write or change anything until I say go. Only after I approve the plan, build it.
+
+/statusline
